@@ -1,9 +1,5 @@
-## Smash Game
+## Smash Game - Open Source
 
-
-## Group WhatsApp
-
-* <a href="//clph.pw/gcwa">Click Here</a>
 
 ## Demo 
 
